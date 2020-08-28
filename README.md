@@ -2,9 +2,16 @@
 > 2020.08.19
 >>review
 
-Refactor - Rename 사용시 바꿀 이름이 사용중인 내용을 일괄적으로 치환시킴
-
-
+while문 재정리
+메서드 재정의
+wrapper클래스 
+깊은복사 얕은복사
+예외(Exception) 학습
+스플릿 사용시 for문을 사용하는이유
+wrapper 이퀄은 객체의 초기화 값 비교
+object의 이퀄은 객체 주소값 비교
+MVC 패턴 정리
+OOP 다시 정리하기
 
 
 [데이터타입]
